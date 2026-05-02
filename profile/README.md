@@ -94,16 +94,6 @@ Company marketing and information site with careers, contact, and about pages.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasir-ali&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-ali&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
 
 <div align="center">
 
